@@ -3,4 +3,4 @@ numpy
 matplotlib
 Pillow
 jupyterlab
-ipykernel
+ipykernel 
