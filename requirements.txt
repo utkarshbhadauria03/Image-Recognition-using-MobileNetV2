@@ -1,6 +1,5 @@
+streamlit
 tensorflow
 numpy
 matplotlib
 Pillow
-jupyterlab
-ipykernel 
